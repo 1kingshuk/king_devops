@@ -5,5 +5,5 @@ services:
         image: kingweb:v1
         container_name: jarvis
         ports:
-         - "3000:80"        
+         - "7992:80"        
 
